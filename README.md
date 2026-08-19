@@ -1,6 +1,6 @@
-### Maji_Ndogo_water_access_analysis
+## Maji_Ndogo_water_access_analysis
 
-## About This Project
+# About This Project
 
 This project is based on the Maji Ndogo Water Access Project from the ALX Data Analytics Program.
 

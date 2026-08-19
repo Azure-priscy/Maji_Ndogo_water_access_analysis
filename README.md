@@ -1,5 +1,3 @@
-## Maji_Ndogo_water_access_analysis
-
 # Maji Ndogo Water Access Project
 
 ## Problem Statement
